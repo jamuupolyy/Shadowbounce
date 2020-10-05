@@ -10,3 +10,5 @@ The game utilises the `bagel` package, which was built specifically for the proj
 Running the game:
 
 You can load this via IntelliJ or any interactive Java environment from the root folder `ShadowBounce`.
+
+You can run `ShadowBounce.java` inside the `src/main` folder.
