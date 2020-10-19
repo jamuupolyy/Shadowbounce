@@ -1,6 +1,6 @@
 # Shadowbounce
 
-This was projects 1 and 2 for Semester 2 2019 Object Oriented Software Design (SWEN20003).
+This was projects 1 and 2 from Semester 2 2019 of Object Oriented Software Design (SWEN20003).
 
 The goal was to build an arcade game similar to Peggles using Java. The first project was to implement basic physics and game functionality, while the second expanded into a fully realised game.
 
