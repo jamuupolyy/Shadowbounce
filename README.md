@@ -4,7 +4,7 @@ This was projects 1 and 2 from Semester 2 2019 of Object Oriented Software Desig
 
 The goal was to build an arcade game similar to Peggles using Java. The first project was to implement basic physics and game functionality, while the second extended the first part into the full game.
 
-The game utilises the `bagel` package, which was built specifically for the project by the head tutor in order to build our game from. 
+The game utilises `bagel`, a package developed by the head tutor in order to build our games with. 
 
 ---
 Running the game:
